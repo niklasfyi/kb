@@ -1,47 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<opml version="1.0">
-	<head>
-		<title>Pocket Casts Feeds</title>
-	</head>
-	<body>
-		<outline text="feeds">
-			<outline type="rss" text="CLEANELECTRIC Podcast" xmlUrl="https://www.cleanelectric.de/feed/mp3/" />
-			<outline xmlUrl="https://feeds.metaebene.me/cre/m4a" type="rss" text="CRE: Technik, Kultur, Gesellschaft" />
-			<outline text="Techdirt" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:122508048/sounds.rss" type="rss" />
-			<outline type="rss" text="Binärgewitter" xmlUrl="http://feeds.feedburner.com/binaergewitter-podcast" />
-			<outline type="rss" text="Kubernetes Podcast from Google" xmlUrl="https://kubernetespodcast.com/feeds/audio.xml" />
-			<outline text="Late Night Linux" type="rss" xmlUrl="https://latenightlinux.com/feed/mp3" />
-			<outline type="rss" text="Darknet Diaries" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" />
-			<outline text="DevNews" xmlUrl="http://feeds.codenewbie.org/devnews_podcast.xml" type="rss" />
-			<outline xmlUrl="https://feeds.fireside.fm/dlnxtend/rss" text="DLN Xtend" type="rss" />
-			<outline type="rss" text="Bill Gates and Rashida Jones Ask Big Questions" xmlUrl="https://feeds.feedburner.com/BillGatesAndRashidaJonesAskBigQuestions" />
-			<outline type="rss" xmlUrl="https://feeds.simplecast.com/XA_851k3" text="The Stack Overflow Podcast" />
-			<outline type="rss" text="Nur 30 Minuten?" xmlUrl="https://nur30min.de/feed/mp3/" />
-			<outline xmlUrl="https://anchor.fm/s/57fec20/podcast/rss" type="rss" text="LinuxServer.io" />
-			<outline type="rss" text="Destination Linux" xmlUrl="https://destinationlinux.org/feed/mp3/" />
-			<outline xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:261098918/sounds.rss" type="rss" text="The Privacy, Security, &amp; OSINT Show" />
-			<outline text="CyberSpeaksLIVE" xmlUrl="https://anchor.fm/s/af222e0/podcast/rss" type="rss" />
-			<outline text="Conversations in Code" xmlUrl="https://conversationsincode.xyz/rss/podcast.xml" type="rss" />
-			<outline text="Command Line Heroes" xmlUrl="https://feeds.pacific-content.com/commandlineheroes" type="rss" />
-			<outline type="rss" text="All Jupiter Broadcasting Shows" xmlUrl="https://feed.jupiter.zone/allshows" />
-			<outline xmlUrl="https://www.codingblocks.net/podcast-feed.xml" text="Coding Blocks" type="rss" />
-			<outline xmlUrl="https://ukw.fm/feed/mp3/" type="rss" text="UKW" />
-			<outline xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:412757172/sounds.rss" text="HashiCast" type="rss" />
-			<outline type="rss" text="Reply All" xmlUrl="https://feeds.megaphone.fm/replyall" />
-			<outline xmlUrl="https://feeds.fireside.fm/sudoshow/rss" type="rss" text="Sudo Show" />
-			<outline xmlUrl="https://podfeet.com/ttt/ttt-rss.xml" type="rss" text="Taming the Terminal" />
-			<outline text="Changelog Master Feed" xmlUrl="https://changelog.com/master/feed" type="rss" />
-			<outline text="Logbuch:Netzpolitik" xmlUrl="https://feeds.metaebene.me/lnp/m4a" type="rss" />
-			<outline text="Defensive Security Podcast - Malware, Hacking, Cyber Security &amp; Infosec" type="rss" xmlUrl="https://defensivesecurity.org/feed/podcast/" />
-			<outline text="FLOSS Weekly (Audio)" type="rss" xmlUrl="https://feeds.twit.tv/floss.xml" />
-			<outline text="The New Show" xmlUrl="https://thenew.show/feed/podcast" type="rss" />
-			<outline text="2.5 Admins" type="rss" xmlUrl="https://2.5admins.com/feed/podcast" />
-			<outline xmlUrl="http://feeds.devpods.dev/devdiscuss_podcast.xml" text="DevDiscuss" type="rss" />
-			<outline xmlUrl="https://feeds.fireside.fm/asknoah/rss" type="rss" text="Ask Noah Show" />
-			<outline text="Request for Comments" type="rss" xmlUrl="https://requestforcomments.de/feed/mp3" />
-			<outline text="Late Night Linux Extra" xmlUrl="https://latenightlinux.com/feed/extra" type="rss" />
-			<outline text="Lage der Nation - der Politik-Podcast aus Berlin" type="rss" xmlUrl="https://feeds.lagedernation.org/feeds/ldn-mp3.xml" />
-			<outline text="Chaosradio" type="rss" xmlUrl="https://chaosradio.de/feed/m4a" />
+# Podcasts I listen to:
+
+ - [[Cleanelectric]]
+ - [[CRE: Technik, Kultur, Gesellschaft]]
+ - [[Techdirt]]
+ - [[Binärgewitter]]
+ - [[Kubernetes Podcast from Google]]
+ - [[Late Night Linux]]
+ - [[Darknet Diaries]]
+ - [[DevNews]]
+ - [[DLN Xtend]]
+ - [[Bill Gates and Rashida Jones Ask Big Questions]]
+ - [[The Stack Overflow Podcast]]
+ - [[Nur 30 Minuten?]]
+ - [[LinuxServer.io]]
+ - [[Destination Linux]]
+ - [[The Privacy, Security, &amp; OSINT Show]]
+ - [[CyberSpeaksLIVE]]
+ - [[Conversations in Code]]
+ - [[Command Line Heroes]]
+ - [[All Jupiter Broadcasting Shows]]
+ - [[Coding Blocks]]
+ - [[UKW]]
+ - [[HashiCast]]
+ - [[Reply All]]
+ - [[Sudo Show]]
+ - [[Taming the Terminal]]
+ - [[Changelog Master Feed]]
+ - [[Logbuch:Netzpolitik]]
+ - [[Defensive Security Podcast - Malware, Hacking, Cyber Security & Infosec]]
+ - [[FLOSS Weekly (Audio)]]
+ - [[The New Show]]
+ - [[2.5 Admins]]
+ - [[DevDiscuss]]
+ - [[Ask Noah Show]]
+ - [[Request for Comments]]
+ - [[Late Night Linux Extra]]
+ - [[Lage der Nation - der Politik-Podcast aus Berlin]]
+ - [[Chaosradio]]
+ - [[]]
 			<outline text="Ladybug Podcast" xmlUrl="https://pinecast.com/feed/ladybug-podcast" type="rss" />
 			<outline xmlUrl="http://www.ndr.de/nachrichten/info/podcast4684.xml" type="rss" text="Das Coronavirus-Update von NDR Info" />
 			<outline text="Netzpolitik Podcast – netzpolitik.org" xmlUrl="https://netzpolitik.org/category/netzpolitik-podcast/feed/" type="rss" />
