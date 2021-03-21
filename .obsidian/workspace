@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,6 +77,14 @@
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "94143873d4ed0c31",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
