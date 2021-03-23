@@ -1,5 +1,6 @@
 # Podcasts I listen to:
 
+ - [[All Jupiter Broadcasting Shows]]
  - [[Cleanelectric]]
  - [[CRE]]
  - [[Techdirt]]
@@ -18,7 +19,6 @@
  - [[CyberSpeaksLIVE]]
  - [[Conversations in Code]]
  - [[Command Line Heroes]]
- - [[All Jupiter Broadcasting Shows]]
  - [[Coding Blocks]]
  - [[UKW]]
  - [[HashiCast]]
