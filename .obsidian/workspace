@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Podcasts.md",
+            "file": "Ali's Book Notes Template.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podcasts.md",
+                "file": "Ali's Book Notes Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +94,7 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Ali's Book Notes Template.md",
     "Podcasts.md",
     "command-line-heroes.md",
     "Untitled.md"
