@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ali's Book Notes Template.md",
+            "file": "Krümel.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ali's Book Notes Template.md",
+                "file": "Krümel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +94,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Ali's Book Notes Template.md",
-    "Podcasts.md",
-    "command-line-heroes.md",
-    "Untitled.md"
+    "Krümel.md",
+    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process.md",
+    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/4 SEO/Untitled 1.png",
+    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/4 SEO/Untitled.png",
+    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/3 Edit and Proofread.md",
+    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/2 Rough Draft.md",
+    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/1 Outline.md",
+    "Blogging Manager.md",
+    "Toolkit.md",
+    "Ali's Book Notes Template.md"
   ]
 }
