@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "LYT Kit/The forest entrance.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LYT Kit/The forest entrance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +94,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "LYT Kit/The forest entrance.md",
+    "LYT Kit/_Start Here.md",
     "Krümel.md",
     "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process.md",
     "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/4 SEO/Untitled 1.png",
@@ -97,8 +103,6 @@
     "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/3 Edit and Proofread.md",
     "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/2 Rough Draft.md",
     "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/1 Outline.md",
-    "Blogging Manager.md",
-    "Toolkit.md",
-    "Ali's Book Notes Template.md"
+    "Blogging Manager.md"
   ]
 }
