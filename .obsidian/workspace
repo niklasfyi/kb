@@ -6,7 +6,6 @@
       {
         "id": "64dba1e9e873a215",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -73,6 +72,8 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -82,8 +83,19 @@
             "id": "94143873d4ed0c31",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {}
+            }
+          },
+          {
+            "id": "9bd4a3ce89d39615",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
             }
           }
         ],
@@ -93,6 +105,7 @@
     "direction": "horizontal",
     "width": 300
   },
+  "active": "64dba1e9e873a215",
   "lastOpenFiles": [
     "LYT Kit/Zettelkasten and LYT Frameworks.md",
     "LYT Kit/The forest entrance.md",
