@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
+            "file": "LYT Kit/LYT Kit.md",
             "mode": "preview"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
+            "file": "LYT Kit/LYT Kit.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
+                "file": "LYT Kit/LYT Kit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
   },
   "active": "64dba1e9e873a215",
   "lastOpenFiles": [
-    "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
-    "Podcasts.md",
-    "Krümel.md",
-    "LYT Kit/Zettelkasten and LYT Frameworks.md",
+    "LYT Kit/LYT Kit.md",
     "LYT Kit/The forest entrance.md",
-    "LYT Kit/Guiding Principles of PKM.md",
     "LYT Kit/_Start Here.md",
-    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process.md",
-    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/4 SEO/Untitled 1.png",
-    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/4 SEO/Untitled.png"
+    "LYT Kit/+Home.md",
+    "LYT Kit/Publish your own stuff with Obsidian Publish.md",
+    "Darknet Diaries.md",
+    "Podcasts.md",
+    "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
+    "Krümel.md",
+    "LYT Kit/Zettelkasten and LYT Frameworks.md"
   ]
 }
