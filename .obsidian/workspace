@@ -9,10 +9,47 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LYT Kit/Zettelkasten and LYT Frameworks.md",
+            "file": "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "5cdde0c184d55875"
+      },
+      {
+        "id": "0274b87e847d3fab",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "5cdde0c184d55875"
       }
     ],
     "direction": "vertical"
@@ -68,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LYT Kit/Zettelkasten and LYT Frameworks.md",
+                "file": "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -107,15 +144,15 @@
   },
   "active": "64dba1e9e873a215",
   "lastOpenFiles": [
+    "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
+    "Podcasts.md",
+    "Krümel.md",
     "LYT Kit/Zettelkasten and LYT Frameworks.md",
     "LYT Kit/The forest entrance.md",
     "LYT Kit/Guiding Principles of PKM.md",
     "LYT Kit/_Start Here.md",
-    "Krümel.md",
     "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process.md",
     "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/4 SEO/Untitled 1.png",
-    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/4 SEO/Untitled.png",
-    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/3 Edit and Proofread.md",
-    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/2 Rough Draft.md"
+    "Blogging Manager/Blog Posts/New Blog Post/Blog Post Process/4 SEO/Untitled.png"
   ]
 }
