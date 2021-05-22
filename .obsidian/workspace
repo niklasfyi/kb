@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LYT Kit/LYT Kit.md",
-            "mode": "preview"
+            "file": "Darknet Diaries.md",
+            "mode": "source"
           }
         },
         "group": "5cdde0c184d55875"
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "LYT Kit/LYT Kit.md",
+            "file": "Darknet Diaries.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LYT Kit/LYT Kit.md",
+                "file": "Darknet Diaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,12 +144,12 @@
   },
   "active": "64dba1e9e873a215",
   "lastOpenFiles": [
+    "Darknet Diaries.md",
     "LYT Kit/LYT Kit.md",
     "LYT Kit/The forest entrance.md",
     "LYT Kit/_Start Here.md",
     "LYT Kit/+Home.md",
     "LYT Kit/Publish your own stuff with Obsidian Publish.md",
-    "Darknet Diaries.md",
     "Podcasts.md",
     "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
     "Krümel.md",
