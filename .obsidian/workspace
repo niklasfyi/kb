@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_inbox.md",
+            "file": "Krümel.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "_inbox.md",
+            "file": "Krümel.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox.md",
+                "file": "Krümel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,9 +134,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "40a1aa6df8e138ca",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -145,15 +152,15 @@
   },
   "active": "64dba1e9e873a215",
   "lastOpenFiles": [
-    "Untitled.md",
-    "CRM/Untitled.md",
+    "Krümel.md",
     "Darknet Diaries.md",
-    "LYT Kit/LYT Kit.md",
-    "LYT Kit/The forest entrance.md",
-    "LYT Kit/_Start Here.md",
+    "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
+    "_inbox.md",
     "LYT Kit/+Home.md",
-    "LYT Kit/Publish your own stuff with Obsidian Publish.md",
-    "Podcasts.md",
-    "Ach? Triumvirat für historisch inspirierte Humorvermittlung.md"
+    "LYT Kit/Is LYT For Me.md",
+    "Untitled.md",
+    "LYT Kit/LYT Kit.md",
+    "CRM/Untitled.md",
+    "LYT Kit/The forest entrance.md"
   ]
 }
