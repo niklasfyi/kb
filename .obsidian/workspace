@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,14 +126,6 @@
             }
           },
           {
-            "id": "94143873d4ed0c31",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "9bd4a3ce89d39615",
             "type": "leaf",
             "state": {
@@ -144,11 +137,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 178
   },
   "active": "64dba1e9e873a215",
   "lastOpenFiles": [
