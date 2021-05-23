@@ -84,6 +84,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "2ddbeebff7f1f107",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
