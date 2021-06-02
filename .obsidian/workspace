@@ -9,11 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Personal Brand.md",
             "mode": "source"
           }
-        },
-        "group": "5cdde0c184d55875"
+        }
       },
       {
         "id": "0274b87e847d3fab",
@@ -21,7 +20,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Untitled.md",
+            "file": "Personal Brand.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -48,8 +47,7 @@
               "close": false
             }
           }
-        },
-        "group": "5cdde0c184d55875"
+        }
       }
     ],
     "direction": "vertical"
@@ -113,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Personal Brand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
