@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Podcasts/Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Podcasts/Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
+            "file": "Untitled.md",
             "options": {
               "collapse-filter": true,
               "search": "",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Podcasts/Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +143,7 @@
   },
   "active": "64dba1e9e873a215",
   "lastOpenFiles": [
+    "Untitled.md",
     "Podcasts/Ach? Triumvirat für historisch inspirierte Humorvermittlung.md",
     "Podcasts.md",
     "Darknet Diaries.md",
@@ -151,7 +152,6 @@
     "_inbox.md",
     "LYT Kit/+Home.md",
     "LYT Kit/Is LYT For Me.md",
-    "Untitled.md",
     "LYT Kit/LYT Kit.md"
   ]
 }
